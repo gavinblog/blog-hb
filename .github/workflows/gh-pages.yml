@@ -28,6 +28,9 @@ jobs:
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
           restore-keys: |
             ${{ runner.os }}-node-
+        
+        - name: Install dependencies1
+          run: npm ci      
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -37,11 +40,12 @@ jobs:
 
       - name: Install dependencies
         run: |
+          npm cli
           hugo mod npm pack 
-          npm install --force
+          npm install
           
       - name: Build
-        run: hugo --minify --gc --enableGitInfo -b https://projects.razonyang.com/hugo-theme-bootstrap-skeleton/
+        run: hugo --minify --gc --enableGitInfo 
 
       - name: Deploy 🚀
         uses: peaceiris/actions-gh-pages@v3
