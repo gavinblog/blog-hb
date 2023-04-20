@@ -2,27 +2,18 @@
 title: Git常用命令
 subtitle: "记录经常使用到git命令，以便查用"
 date: 2023-04-17T14:45:50+08:00
-author: geekswg
+authors:
+  - geekswg
 # weight: 0
 description: "记录经常使用到git命令，以便查用"
 keywords: [""] #关键词
 
 tags: ["git","笔记"]
 categories: ["notes"]
-# 转载文章设置
-# repost:
-#   enable: true
-#   url: ""
-featuredImage: "/images/posts/featured-image-preview.jpg"
-#featuredImagePreview: "/images/posts/featured-image-preview.jpg"
-# 文章资源
-# resources:
-#   - name: featured-image  # 文章资源
-#     src: featured-image-preview.jpg  #地址
-#   - name: featured-image-preview 
-#     src: featured-image-preview.jpg
 
-# See details front matter: https://fixit.lruihao.cn/theme-documentation-content/#front-matter
+images:
+  - "/images/posts/feature.png"
+  - "featured-image.jpg"
 ---
 Git 是一个分布式版本控制系统，用于跟踪文件和代码的更改。经常用来管理代码，方便查阅，版本控制，合作开发，代码审阅。
 记录经常使用到git命令，以便查用.

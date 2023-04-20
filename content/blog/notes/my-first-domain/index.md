@@ -2,7 +2,8 @@
 title: 我的第一个域名
 subtitle: "geekswg.top"
 date: 2023-04-13T17:05:47+08:00
-author: geekswg
+authors:
+  - geekswg
 # weight: 0
 description: "摘要"
 keywords: [""] #关键词
@@ -13,16 +14,7 @@ categories: ["notes"]
 # repost:
 #   enable: true
 #   url: ""
-featuredImage: "/images/posts/featured-image-preview.jpg"
-#featuredImagePreview: "/images/posts/featured-image-preview.jpg"
-# 文章资源
-# resources:
-#   - name: featured-image  # 文章资源
-#     src: featured-image-preview.jpg  #地址
-#   - name: featured-image-preview 
-#     src: featured-image-preview.jpg
-
-# See details front matter: https://fixit.lruihao.cn/theme-documentation-content/#front-matter
+images: ["/images/posts/feature.png"]
 ---
 > 终于买了我的人生中第一个域名。 [geekswg.top](https://geekswg.top/)
 > 用于个人博客使用，花费 $1.88美元，支付宝支付，折合人民币 ￥13.01

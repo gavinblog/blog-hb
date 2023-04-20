@@ -13,7 +13,7 @@ categories: ["AI"]
 # repost:
 #   enable: true
 #   url: ""
-featuredImage: "230318164630-new-bing.png"
+
 #featuredImagePreview: "/images/posts/featured-image-preview.jpg"
 # 文章资源
 # resources:

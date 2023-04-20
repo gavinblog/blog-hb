@@ -1,19 +1,19 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
 description: 
+authors:
+  - geekswg
 noindex: false
-featured: false
+featured: true
 pinned: false
 # comments: false
-series:
-#  - 
-categories:
-#  - 
-tags:
-#  - 
+series: ["geekswg"]
+categories: ["notes"]
+tags: ["tags","tags2"]
+
 images:
+  - "/images/posts/feature.png"
 #  - 
 # menu:
 #   main:
