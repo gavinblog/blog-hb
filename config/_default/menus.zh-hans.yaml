@@ -2,7 +2,7 @@ main:
   - name: 支持
     identifier: support
     weight: 100
-    url: https://github.com/hbstack
+    url: https://gavinblog/blog-hb
     params:
       header: HB 支持社区。
       icon:
@@ -11,7 +11,7 @@ main:
 
   - name: GitHub
     parent: support
-    url: https://github.com/hbstack
+    url: https://gavinblog/blog-hb
     weight: 1
     params:
       icon:
@@ -21,7 +21,7 @@ main:
 
   - name: 讨论
     parent: support
-    url: https://github.com/hbstack/discussions
+    url: https://gavinblog/blog-hb/discussions
     weight: 2
     params:
       icon:
@@ -32,7 +32,7 @@ main:
 
   - name: Bug 反馈
     parent: support
-    url: https://github.com/hbstack/issues/new
+    url: https://gavinblog/blog-hb/issues/new
     weight: 3
     params:
       icon:
@@ -43,7 +43,7 @@ main:
 
   - name: 功能提议
     parent: support
-    url: https://github.com/hbstack/issues/new
+    url: https://gavinblog/blog-hb/issues/new
     weight: 4
     params:
       icon:
@@ -62,7 +62,7 @@ main:
   - name: PayPal
     weight: 11
     parent: support
-    url: https://paypal.me/razonyang
+    url: https://paypal.me/geekswg
     params:
       description: 通过 PayPal 赞助我们。
       icon:
@@ -72,7 +72,7 @@ main:
   - name: Ko-fi
     weight: 12
     parent: support
-    url: https://ko-fi.com/razonyang
+    url: https://ko-fi.com/geekswg
     params:
       description: 通过 Ko-fi 赞助我们。
       icon:

@@ -10,16 +10,9 @@ keywords: [""] #关键词
 tags: ["分享","资源","软件"]
 categories: ["share"]
 
-featuredImage: "/images/posts/featured-image-preview.jpg"
-#featuredImagePreview: "/images/posts/featured-image-preview.jpg"
-# 文章资源
-# resources:
-#   - name: featured-image  # 文章资源
-#     src: featured-image-preview.jpg  #地址
-#   - name: featured-image-preview 
-#     src: featured-image-preview.jpg
+images: 
+  - "/images/posts/feature.pmg" 
 
-# See details front matter: https://fixit.lruihao.cn/theme-documentation-content/#front-matter
 ---
 
 > 所有分享资源来自互联网，如有侵权请告知，会立即删除
