@@ -1,10 +1,10 @@
-description: The starter theme template of HB (Hugo Bootstrap) Framework.
+description: params 主题框架 - The starter theme template of HB (Hugo Bootstrap) Framework.
 
 hb:
   # js_bundle_name: main # the JS bundle name.
   # css_bundle_name: main # the CSS bundle name.
   header:
-    brand: HB # the brand name, leave it empty to use site's title.
+    brand: 毕少侠 # the brand name, leave it empty to use site's title.
     logo_bg: '#712cf9' # logo background color, used by logo with transparent background.
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
@@ -25,6 +25,7 @@ hb:
         - docs
         - blog
         - tutorials
+        - notes
     giscus:
       repo: hbstack/theme
       repo_id: R_kgDOJP3qtA
@@ -34,10 +35,10 @@ hb:
       repo: hbstack/theme
       repo_id: R_kgDOJP3qtA
       category_id: DIC_kwDOJP3qtM4CVavM
-  content_panel:
+  content_panel: # 编辑文章仓库地址
     repo:
       service: github # github or gitlab.
-      repo: hbstack/theme
+      repo: gavinblog/blog-hb
       branch: main
       # subpath: exampleSite
   # gallery:
@@ -53,7 +54,7 @@ pwa:
   manifest:
     background_color: '#712cf9'
     theme_color: '#712cf9'
-    short_name: 'HB Theme'
+    short_name: 'Geek HB Theme'
 
 # see https://hugomods.com/en/docs/search/#site-parameters
 search:

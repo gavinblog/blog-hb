@@ -17,16 +17,10 @@ categories: ["AI"]
 # repost:
 #   enable: true
 #   url: ""
-featuredImage: "230328000644-cursor-electron.png"
-#featuredImagePreview: "/images/posts/featured-image-preview.jpg"
-# 文章资源
-# resources:
-#   - name: featured-image  # 文章资源
-#     src: featured-image-preview.jpg  #地址
-#   - name: featured-image-preview 
-#     src: featured-image-preview.jpg
 
-# See details front matter: https://fixit.lruihao.cn/theme-documentation-content/#front-matter
+images:
+  - "230328000644-cursor-electron.png"
+
 ---
 
 > 这一片关于ChatGPT的文章，由AI工具Cursor写作

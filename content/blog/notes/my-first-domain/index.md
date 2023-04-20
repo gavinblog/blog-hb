@@ -14,7 +14,7 @@ categories: ["notes"]
 # repost:
 #   enable: true
 #   url: ""
-images: ["/images/posts/feature.png"]
+images: ["/images/posts/feature.png","/images/posts/feature-2.jpg"]
 ---
 > 终于买了我的人生中第一个域名。 [geekswg.top](https://geekswg.top/)
 > 用于个人博客使用，花费 $1.88美元，支付宝支付，折合人民币 ￥13.01

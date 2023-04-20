@@ -10,16 +10,8 @@ keywords: [""] #关键词
 tags: ["分享","vscode","plugins"]
 categories: ["share"]
 
-featuredImage: "/images/posts/featured-image-preview.jpg"
-#featuredImagePreview: "/images/posts/featured-image-preview.jpg"
-# 文章资源
-# resources:
-#   - name: featured-image  # 文章资源
-#     src: featured-image-preview.jpg  #地址
-#   - name: featured-image-preview 
-#     src: featured-image-preview.jpg
-
-# See details front matter: https://fixit.lruihao.cn/theme-documentation-content/#front-matter
+images: 
+  - "/images/posts/feature.pmg" 
 ---
 
 所有分享资源来自互联网，如有侵权请告知，会立即删除

@@ -9,20 +9,12 @@ keywords: [""] #关键词
 
 tags: ["New Bing","AI"]
 categories: ["AI"]
-# 转载文章设置
-# repost:
-#   enable: true
-#   url: ""
 
-#featuredImagePreview: "/images/posts/featured-image-preview.jpg"
-# 文章资源
-# resources:
-#   - name: featured-image  # 文章资源
-#     src: featured-image-preview.jpg  #地址
-#   - name: featured-image-preview 
-#     src: featured-image-preview.jpg
+images:
+  - "/images/posts/feature.png"
+  - "/images/posts/feature-2.png"
+  - "/images/posts/feature-3.png"
 
-# See details front matter: https://fixit.lruihao.cn/theme-documentation-content/#front-matter
 ---
 
 > 记录国内正常网络环境直接访问New Bing的方法。

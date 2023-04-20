@@ -10,8 +10,9 @@ keywords: [""] #关键词
 tags: ["notes"]
 categories: ["notes"]
 
-featuredImage: "/images/posts/featured-image.jpg"
-featuredImagePreview: "/images/posts/featured-image-preview.jpg"
+images:
+  - "/images/posts/feature-2.jpg"
+  - "/images/posts/feature-3.jpg"
 
 ---
 Hello world

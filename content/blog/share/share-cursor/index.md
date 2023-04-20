@@ -10,7 +10,8 @@ keywords: [""] #关键词
 tags: ["AI","Cursor","ChatGPT"]
 categories: ["share"]
 
-#featuredImage: "/images/posts/featured-image-preview.jpg"
+images: 
+  - "/images/posts/feature.pmg" 
 ---
 ![Cursor Home](230323185021-cursor-home.png)
 >  [Cursor ](https://www.cursor.so/) 

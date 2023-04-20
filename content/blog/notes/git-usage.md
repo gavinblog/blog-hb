@@ -10,10 +10,20 @@ keywords: [""] #关键词
 
 tags: ["git","笔记"]
 categories: ["notes"]
+series:
+  - notes
+  - tutorial
+sections: 
+  - notes
+  - tutorial
 
+pinned: true
 images:
   - "/images/posts/feature.png"
-  - "featured-image.jpg"
+  - "/images/posts/feature-2.jpg"
+  - "/images/posts/feature-3.jpg"
+
+
 ---
 Git 是一个分布式版本控制系统，用于跟踪文件和代码的更改。经常用来管理代码，方便查阅，版本控制，合作开发，代码审阅。
 记录经常使用到git命令，以便查用.
