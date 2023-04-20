@@ -1,1 +1,44 @@
-metaRobots: "index, follow"
+# see https://hugomods.com/en/docs/google-adsense/.
+# google_adsense = 'ca-pub-XXXXXXXXXXXXXXXX' # Please make that the Google AdSense module was imported.
+
+
+hb:
+  # js_bundle_name: main # the JS bundle name.
+  # css_bundle_name: main # the CSS bundle name.
+  header:
+    brand: HB # the brand name, leave it empty to use site's title.
+    logo_bg: '#712cf9' # logo background color, used by logo with transparent background.
+    # see https://hbstack.dev/en/docs/modules/socials/.
+    socials:
+      github: geekswg
+      twitter: geekswg
+  footer:
+    # see https://hbstack.dev/en/docs/modules/socials/.
+    socials:
+      github: geekswg
+      twitter: geekswg
+  blog:
+    paginate: 12 # paginate.
+    # post_thumbnail: false # whether to show the thumbnails.
+    # post_date_format: ":date_long" # see https://gohugo.io/functions/dateformat/#datetime-formatting-layouts.
+    home: # homepage settings.
+      featured_posts: 5 # the number of the featured posts.
+      main_sections: # leave it empty to include all regular pages.
+        - docs
+        - blog
+        - tutorials
+    giscus:
+      repo: gavinblog/.github
+      repo_id: R_kgDOJPjDtQ
+      category_id: DIC_kwDOJPjDtc4CVYS9
+  docs:
+    giscus:
+      repo: gavinblog/.github
+      repo_id: R_kgDOJPjDtQ
+      category_id: DIC_kwDOJPjDtc4CVYS9
+      
+  content_panel:
+    repo:
+      service: github # github or gitlab.
+      repo: hbstack/theme
+      branch: main

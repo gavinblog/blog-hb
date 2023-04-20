@@ -3,8 +3,9 @@ title: 专栏
 menu:
   main:
     parent: blog
-    weight: 2
     params:
-      icon: <i class="fas fa-fw fa-columns"></i>
-      description: List of series.
+      icon:
+        vendor: bs
+        name: columns
+      description: 所有专栏。
 ---

@@ -3,7 +3,9 @@ title: 博客
 menu:
   main:
     identifier: blog
+    weight: 4
     params:
-      icon: '<i class="fas fa-fw fa-blog"></i>'
-      description: '博客菜单描述'
+      icon:
+        vendor: fas
+        name: blog
 ---
