@@ -2,7 +2,7 @@ main:
   - name: 支持
     identifier: support
     weight: 100
-    url: https://gavinblog/blog-hb
+    url: https://github.com/gavinblog/blog-hb
     params:
       header: HB 支持社区。
       icon:
@@ -11,7 +11,7 @@ main:
 
   - name: GitHub
     parent: support
-    url: https://gavinblog/blog-hb
+    url: https://github.com/gavinblog/blog-hb
     weight: 1
     params:
       icon:
@@ -21,7 +21,7 @@ main:
 
   - name: 讨论
     parent: support
-    url: https://gavinblog/blog-hb/discussions
+    url: https://github.com/gavinblog/blog-hb/discussions
     weight: 2
     params:
       icon:
@@ -32,7 +32,7 @@ main:
 
   - name: Bug 反馈
     parent: support
-    url: https://gavinblog/blog-hb/issues/new
+    url: https://github.com/gavinblog/blog-hb/issues/new
     weight: 3
     params:
       icon:
@@ -43,7 +43,7 @@ main:
 
   - name: 功能提议
     parent: support
-    url: https://gavinblog/blog-hb/issues/new
+    url: https://github.com/gavinblog/blog-hb/issues/new
     weight: 4
     params:
       icon:
