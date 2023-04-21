@@ -1,5 +1,5 @@
 ---
-title: HB 主题模板
+title: 毕少侠-主页
 # menu:
 #   main:
 #     name: 主页
