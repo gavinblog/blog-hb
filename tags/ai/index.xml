@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI on geek-HB 博客主题模板</title><link>https://gavinblog.github.io/blog-hb/tags/ai/</link><description>Recent content in AI on geek-HB 博客主题模板</description><generator>Hugo -- gohugo.io</generator><copyright>Copyright © 2022-{year} [Hugo Modules](https://hugomods.com/) and [HB Framework](https://hbstack.dev/). All Rights Reserved.</copyright><lastBuildDate>Thu, 23 Mar 2023 18:15:27 +0800</lastBuildDate><atom:link href="https://gavinblog.github.io/blog-hb/tags/ai/index.xml" rel="self" type="application/rss+xml"/><item><title>Share Cursor</title><link>https://gavinblog.github.io/blog-hb/blog/2023/share-cursor/</link><pubDate>Thu, 23 Mar 2023 18:15:27 +0800</pubDate><guid>https://gavinblog.github.io/blog-hb/blog/2023/share-cursor/</guid><description>Cursor 最重要的是这个是 开源免费，国内直接访问的AI助手小工具.
+开源地址 https://github.com/getcursor/cursor
+Build Software. Fast. Write, edit, and chat about your code with a pful AI
+食用方法 快捷键：Ctrl + K 输入你的描述，自然语言对话，他就能根据你的描述要求开始写代码了，如果实现代码比较长的话，他可能不会一次性写完代码，写道一半停止了，你继续按快捷键告诉他继续写就可以了。
+快捷键 Ctrl + L 可以和他自然聊天，比如问题某段代码什么意思，或者问他写的代码如何运行，经过测试，他的回答都十分的智能，而且上下文理解的非常顺畅，就像和一个助理在正常聊天。
+食用预览 Ctrl + K 让他帮你写代码 Ctrl + L 帮助你运行程序，有什么问题都可以直接问他，比如让如何安装依赖，翻译代码，解释代码的含义。 总结下来，使用虽然比较简单，但是还是需要有一定的编程思维和判断能力，因为在测试的时候，使用pthon代码的时候用到了一个库，调用库的时候居然自己创造了一个方法。我在调试的运行他帮我写的代码时。居然报错了，说不存在这个方法，我去搜下这个库，确实没发现他使用的这个方法！让我哭笑不得，一方面说明这个代码应该是AI自己借鉴别人代码，如何根据我的需求，他自己编写的。2.说明这个程序呀有时候会胡诌一些不存在的东西，或者自己创造一些，但是肯定有问题，需要自己判断去修改。
+整体使用下来，效果令人吃惊，值得尝试一下。
+官方地址</description></item><item><title>New Bing 国内正常访问方法</title><link>https://gavinblog.github.io/blog-hb/blog/2023/new-bing-%E5%9B%BD%E5%86%85%E6%AD%A3%E5%B8%B8%E8%AE%BF%E9%97%AE%E6%96%B9%E6%B3%95/</link><pubDate>Sat, 18 Mar 2023 16:49:11 +0800</pubDate><guid>https://gavinblog.github.io/blog-hb/blog/2023/new-bing-%E5%9B%BD%E5%86%85%E6%AD%A3%E5%B8%B8%E8%AE%BF%E9%97%AE%E6%96%B9%E6%B3%95/</guid><description>&lt;blockquote>
+&lt;p>记录国内正常网络环境直接访问New Bing的方法。
+之前的插件方法已经失效
+截止目前以下方法可正常访问，使用 &lt;a
+href="https://github.com/oldj/SwitchHosts"
+target="_blank" rel="noopener noreferrer">SwitchHosts&lt;/a> 插件
+note abstract info tip success question warning failure danger bug example quote&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="前言">前言&lt;/h2>
+&lt;p>最近百度文心一言发布了，还在内测申请，&lt;a
+href="https://yiyan.baidu.com/welcome"
+target="_blank" rel="noopener noreferrer">申请地址&lt;/a>,不知道个人需要多长时间可以通过申请。
+最近的AI搜索引擎比较火，我之前申请的new bing体验了，还是比较厉害的，现在又升级了，对话限制提高到了15次对了。不过国内的网络不能直接访问bing.com/new,这一点比较难受，今天在晚上看到一个工具可以解决，国内直接访问new bing的方法。&lt;/p>
+&lt;p>前提你已经通过new bing 的waitlist，不然你还是用不上new bing哟！&lt;/p></description></item></channel></rss>

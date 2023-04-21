@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>New Bing on geek-HB 博客主题模板</title><link>https://gavinblog.github.io/blog-hb/tags/new-bing/</link><description>Recent content in New Bing on geek-HB 博客主题模板</description><generator>Hugo -- gohugo.io</generator><copyright>Copyright © 2022-{year} [Hugo Modules](https://hugomods.com/) and [HB Framework](https://hbstack.dev/). All Rights Reserved.</copyright><lastBuildDate>Sat, 18 Mar 2023 16:49:11 +0800</lastBuildDate><atom:link href="https://gavinblog.github.io/blog-hb/tags/new-bing/index.xml" rel="self" type="application/rss+xml"/><item><title>New Bing 国内正常访问方法</title><link>https://gavinblog.github.io/blog-hb/blog/2023/new-bing-%E5%9B%BD%E5%86%85%E6%AD%A3%E5%B8%B8%E8%AE%BF%E9%97%AE%E6%96%B9%E6%B3%95/</link><pubDate>Sat, 18 Mar 2023 16:49:11 +0800</pubDate><guid>https://gavinblog.github.io/blog-hb/blog/2023/new-bing-%E5%9B%BD%E5%86%85%E6%AD%A3%E5%B8%B8%E8%AE%BF%E9%97%AE%E6%96%B9%E6%B3%95/</guid><description>&lt;blockquote>
+&lt;p>记录国内正常网络环境直接访问New Bing的方法。
+之前的插件方法已经失效
+截止目前以下方法可正常访问，使用 &lt;a
+href="https://github.com/oldj/SwitchHosts"
+target="_blank" rel="noopener noreferrer">SwitchHosts&lt;/a> 插件
+note abstract info tip success question warning failure danger bug example quote&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="前言">前言&lt;/h2>
+&lt;p>最近百度文心一言发布了，还在内测申请，&lt;a
+href="https://yiyan.baidu.com/welcome"
+target="_blank" rel="noopener noreferrer">申请地址&lt;/a>,不知道个人需要多长时间可以通过申请。
+最近的AI搜索引擎比较火，我之前申请的new bing体验了，还是比较厉害的，现在又升级了，对话限制提高到了15次对了。不过国内的网络不能直接访问bing.com/new,这一点比较难受，今天在晚上看到一个工具可以解决，国内直接访问new bing的方法。&lt;/p>
+&lt;p>前提你已经通过new bing 的waitlist，不然你还是用不上new bing哟！&lt;/p></description></item></channel></rss>
